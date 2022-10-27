@@ -44,6 +44,7 @@
 # 3. Quick Start
 
 - Front-end
+
   1. Install packages
 
      ```jsx
@@ -51,7 +52,9 @@
      ```
 
   2. Set smart contract addresses & ABIs
+
 - Back-end
+
   1. Install packages
 
      ```jsx
@@ -71,7 +74,9 @@
      ADMIN_WALLET_PRIVATE_KEY =
      MODERATOR_URI = https://ipfs.io/ipfs/bafybeifanfpb7iwdhjveyccm4vv2bsj2omh
      ```
+
 - Smart Contract
+
   1. Install packages
 
      ```
@@ -106,6 +111,14 @@
 ---
 
 # 4. Features
+
+![hompage](./client/src/img/homepage.png)
+![signin](./client/src/img/login.png)
+![signup](./client/src/img/signup.png)
+![worker](./client/src/img/worker.png)
+![order](./client/src/img/orderinfo.png)
+![myinfo](./client/src/img/myinfo.png)
+![governance](./client/src/img/governance.png)
 
 ## Order
 
