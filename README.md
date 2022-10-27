@@ -159,20 +159,16 @@
 
 ## 김승주
 
-- 담당
-- Github
+- Frontend,SmartContract
 
 ## 박인균
 
-- 담당
-- Github
+- Frontend,SmartContract
 
 ## 오정헌
 
-- 담당
-- Github
+- Backend,SmartContract
 
 ## 이효정
 
-- 담당
-- Github
+- Backend
